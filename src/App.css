@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+/* custom fonts */
+@font-face {
+  font-family: Ibm;
+  src: url("/public/FontsIbm/IBMPlexSansArabic-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: Ibm;
+  src: url("/public/FontsIbm/IBMPlexSansArabic-Bold.ttf");
+  font-weight:700;
+}
+@font-face {
+  font-family: Ibm;
+  src: url("/public/FontsIbm/IBMPlexSansArabic-SemiBold.ttf");
+  font-weight:600;
+}
+/* custom fonts */
